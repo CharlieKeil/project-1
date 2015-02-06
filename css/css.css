@@ -96,8 +96,9 @@ div {
 
 blockquote {
   text-align: center;
-  margin: 0 7em 1em 7em;
+  margin: 0 4.5em 1em 4.5em;
   color: #B2A215;
+  font-size: 14pt;
 }
 
 figure {
