@@ -66,14 +66,13 @@ li {
 
 p {
   margin: 0;
-  padding: 1em 0 0 0;
+  padding: 1em 0 1em 0;
 }
 
 div {
   color: #B2A215;
   font-size: 3em;
   text-align: center;
-  padding: 1rem 1rem 0 1rem;
 }
 
 blockquote {
@@ -94,6 +93,11 @@ figure {
   margin: 0;
   padding: 1em;
   text-align: center;
+  xpadding: 1em;
+}
+
+img {
+  width: 100%;
 }
 
 footer {
