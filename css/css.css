@@ -56,6 +56,14 @@ nav a:hover {
   background-color: #B2A215;
 }
 
+dd {
+  margin: 0;
+}
+
+li {
+  text-decoration: none;
+}
+
 p {
   margin: 0;
   padding: 1em 0 0 0;
@@ -77,4 +85,19 @@ blockquote {
 blockquote cite {
   text-align: center;
   color: #B2A215;
+}
+
+figure {
+  border: 3px solid #B2A215;
+  border-radius: 10px;
+  background-color: #FFFCE0;
+  margin: 0;
+  padding: 1em;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  padding: 1em 1em 2em 1em;
+  background-color: #FFE524;
 }
